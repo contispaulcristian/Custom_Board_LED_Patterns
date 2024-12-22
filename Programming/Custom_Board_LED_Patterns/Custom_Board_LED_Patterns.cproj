@@ -126,10 +126,34 @@
     <Compile Include="avrlibtypes.h">
       <SubType>compile</SubType>
     </Compile>
+    <Compile Include="button.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="button.h">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="global.h">
       <SubType>compile</SubType>
     </Compile>
+    <Compile Include="leds.h">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="main.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="main.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="main_helper.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="main_helper.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="setup.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="setup.h">
       <SubType>compile</SubType>
     </Compile>
   </ItemGroup>
