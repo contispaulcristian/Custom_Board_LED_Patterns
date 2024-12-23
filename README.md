@@ -27,7 +27,7 @@ Programming the Board:
 *   Programmer: An [USBasp programmer](https://www.fischl.de/usbasp/) was used to program the ATmega328P via SPI.
 </br>
 <p align="center">
-  <img width="1000" height="562" src="https://github.com/user-attachments/assets/ed2dd3af-b125-41e9-b26d-072c3818be96">
+  <img width="800" height="450" src="https://github.com/user-attachments/assets/ed2dd3af-b125-41e9-b26d-072c3818be96">
 </p>
 
 *   [Fuse Configuration:](https://www.engbedded.com/fusecalc/) The [avrdude tool](https://github.com/ZakKemble/AVRDUDESS/releases/download/v2.18/AVRDUDESS-2.18-setup.exe) was used to program the fuses of the ATmega328P microcontroller
