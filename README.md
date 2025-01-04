@@ -18,7 +18,7 @@ Hardware Design:
 *   The design can be implemented on a breadboard, perfboard, or a custom PCB.
 </br>
 <p align="center">
-  <img width="666" height="645" src="https://github.com/user-attachments/assets/8c5431cb-4939-489b-8323-a65e4317bd7e">
+  <img width="666" height="645" src="https://github.com/user-attachments/assets/f7d2266e-dd10-4862-915f-b810e25ac4eb">
 </p>
 </br>
 Programming the Board:
