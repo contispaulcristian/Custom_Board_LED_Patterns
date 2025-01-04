@@ -1014,7 +1014,7 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "PB2{slash}MISO" (shape input) (at 182.88 120.65 0) (fields_autoplaced)
+  (global_label "PB4{slash}MISO" (shape input) (at 182.88 120.65 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 88f97ba5-0aba-4e6a-b431-d70cbac6392d)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 195.462 120.65 0)
